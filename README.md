@@ -13,6 +13,7 @@
                           Starting development server at http://127.0.0.1:8000/
                           Quit the server with CTRL-BREAK.
   ### Copy the URL 'http://127.0.0.1:8000/' and Paste it on your prefer web browsers Address bar or also known as Search Bar.
+  ### Framework used: (Django)
 
 
 
